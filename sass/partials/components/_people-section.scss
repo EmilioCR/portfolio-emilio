@@ -1,0 +1,42 @@
+.people-say {
+	padding: 50px;
+	margin: 0 auto;
+	text-align: center;
+
+	h2 {
+		font-size: 40px;
+		margin: 50px;
+	}
+}
+
+.people {
+	margin: 50px;
+}
+
+.person {
+	width: 25%;
+	border: 1px solid #a8a8a8;
+	text-align: left;
+	background-color: #fff;
+	padding: 20px;
+	margin: 0 20px;
+
+	h3 {
+		display: inline-block;
+		font-size: 20px;
+		vertical-align: top;
+	}
+
+	h4 {
+		display: inline-block;
+		margin: 20px;
+	}
+}
+
+.info-person {
+	width: 10%;
+}
+
+.photo-person {
+	width: 10%;
+}

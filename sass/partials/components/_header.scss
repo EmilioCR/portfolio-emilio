@@ -1,0 +1,35 @@
+header img {
+	width: 5%;
+	position: absolute;
+	left: 45%;
+	top: 40px;
+}
+
+.nav-header {
+	text-align: right;
+
+	li {
+		display: inline-block;
+		margin: 1%;
+	}
+}
+
+.titles {
+	text-align: center;
+	margin-top: 5%;
+}
+
+.nav-item {
+	color: #a8a8a8;
+	font-size: 20px;
+
+	&:hover {
+		color: #000;
+	}
+}
+
+.selected {
+	color: #000;
+	border-bottom: 2px solid #000;
+}
+

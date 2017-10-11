@@ -1,0 +1,44 @@
+.projects {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 100px;
+	position: relative;
+}
+
+.description-project {
+	display: inline-block;
+	width: 25%;
+	vertical-align: top;
+	text-align: left;
+	color: #000;
+
+	h3 {
+		border-bottom: 2px solid #000;
+		margin: 0 0 20px 0;
+	}
+
+	a {
+		color: #000;
+		font-size: 20px;
+		display: inline-block;
+	}
+}
+
+.img-container img{
+	display: inline-block;
+	width: 25%;
+}
+
+.margin-left {
+	margin-left: 20px;
+}
+
+.margin-right {
+	margin-right: 20px;
+}
+
+.git-logo {
+	width: 2%;
+	position: absolute;
+	bottom: 0;
+}
