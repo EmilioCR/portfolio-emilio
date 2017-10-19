@@ -3,7 +3,7 @@
 		'margin-left': "-=100%"
 	});
     return false;
-})()
+})();
 
 $('#about-section').click(function(){
     $(".pages").animate({
